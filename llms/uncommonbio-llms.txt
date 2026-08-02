@@ -1,0 +1,19 @@
+# Uncommon (uncommonbio.co)
+
+> Uncommon (formerly Higher Steaks) is a Cambridge, UK biotechnology company backed by Balderton Capital. The company sold its cultivated meat platform to Vow and has launched SymphoRNA, a new venture focused on nucleic acid delivery technology. Uncommon publishes no public developer program or API.
+
+## Company
+
+- [Website](https://uncommonbio.co/): Transitional landing page announcing the sale of the cultivated meat platform to Vow and the launch of SymphoRNA.
+- [SymphoRNA](https://www.symphorna.com/): The company's new venture in nucleic acid delivery technology.
+- [Vow](https://www.eatvow.com/): Acquirer of Uncommon's cultivated meat platform.
+
+## APIs
+
+No public APIs, developer documentation, or machine-readable specifications were found for this company.
+
+<!--
+generated: 2026-07-21
+method: generated
+source: apis.yml + https://uncommonbio.co/ (fetched 2026-07-21)
+-->

@@ -1,8 +1,27 @@
 aid: uncommonbio
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/uncommonbio.png
 name: uncommonbio
-description: uncommonbio is a company surfaced as a portfolio company of balderton-capital and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Uncommon (uncommonbio.co, formerly Higher Steaks) is a Cambridge, UK biotechnology
+  company backed by Balderton Capital. The company sold its cultivated meat platform to
+  Vow and has pivoted to launch SymphoRNA, a new venture developing nucleic acid delivery
+  technology for multi-RNA combination medicines that target complex diseases such as
+  fibrosis, heart failure, and neurodegeneration. As a life-sciences research and platform
+  company, Uncommon publishes no public developer program, API, or machine-readable API
+  specification. This profile was added to the API Evangelist network as a portfolio lead
+  of Balderton Capital and enriched via the local enrichment pipeline, which confirmed the
+  absence of an API surface while capturing live domain-security posture.
 url: https://raw.githubusercontent.com/api-evangelist/uncommonbio/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +31,14 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Biotechnology
+- Life Sciences
+- Nucleic Acid Delivery
+- RNA Therapeutics
+- Balderton Capital
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +48,12 @@ maintainers:
 common:
 - type: Website
   url: https://uncommonbio.co/
+- type: LLMsTxt
+  url: llms/uncommonbio-llms.txt
+- type: DomainSecurity
+  url: security/uncommonbio-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
